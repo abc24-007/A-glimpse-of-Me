@@ -67,7 +67,7 @@ main img {
 
 max-width: 50%
 
-height: auto; /* Maintain aspect ratio */
+height: 
 
 display: block;
 
@@ -114,7 +114,7 @@ text-decoration: underline;
 }
 img {
 
-border: 5px solid #4CAF50;
+border: 5px solid #fff;
 
 border-radius: 10px;
 
