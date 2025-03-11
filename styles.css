@@ -7,9 +7,9 @@ body {
 
 font-family: Arial, sans-serif;
 
-color: #F4C2C2;
+color: #ffffff;
 
-background-color: #F4C2C2; 
+background-color: #F4C2C2; !important; 
 
 
 margin: 0; /* Remove default margin */
